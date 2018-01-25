@@ -124,3 +124,6 @@ if neobundle#is_installed('neocomplete.vim')
 
     let g:neosnippet#snippets_directory='~/.vim/snippets'
 endif
+
+" tex
+let g:tex_conceal=''
